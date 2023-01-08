@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(128, 0, 128, 0.3);
+}
+div.container{
+    padding: 10px;
+    background-color: whitesmoke;
+    height: auto;
+    width: 23%;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(94, 64, 64, 0.297);
+}
+input{
+    border-radius: 6px;
+    height: 5vh;
+    outline: none;
+    border: none;
+    margin-top: 4%;
+    width: 100%;
+}
+button{
+    background-color: green;
+    color: white;
+    margin-top: 4%;
+    width: 100%;
+    border-radius: 6px;
+    height: 5vh;
+    outline: none;
+    border: none;
+}
+table,tr,th,td,tbody,thead{
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
